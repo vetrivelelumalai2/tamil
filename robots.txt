@@ -1,0 +1,3 @@
+User-agent: *
+
+https://s1.moviesda.pw/sitemap-index.xml
